@@ -162,7 +162,7 @@ Mods: {
 			CommonFish: 普通鱼
 			Dragonfly: 蜻蜓
 			Butterfly: 蝴蝶
-			CaughtNPC: 被抓捕的城镇NPC
+			CaughtNPC: 人质
 			Banner: 旗帜
 			ArmoredBones: 装甲骷髅旗帜
 			PirateBanner: 海盗旗帜
@@ -321,7 +321,7 @@ Mods: {
 
 			BrittleBone: 易碎骨头
 			GelPack: 无尽凝胶包
-			StarPouch: 无尽星星袋
+			StarPouch: 300颗不够
 
 			Abominationn: 永恒群冠
 			Angler: 渔夫
@@ -363,8 +363,8 @@ Mods: {
 			AltarExterminator: 祭坛终结者
 			AutoHouse: 快速房屋
 			BoomShuriken: 爆炸手里剑
-			CityBuster: 城市克星
-			DoubleObsidianInstabridge: 双重黑曜石速建平台
+			CityBuster: 城市救星
+			DoubleObsidianInstabridge: 嘿嘿你不会把地狱的嘉登实验室卡没吧
 			GraveBuster: 墓碑克星
 			HalfInstavator: 半程地狱直通车
 			InstaBridge: 速建平台
@@ -764,7 +764,7 @@ Mods: {
 			ForbiddenTome: 召唤黑暗魔法师
 			HeadofMan: 
 				'''
-				召唤无头骑士
+				召唤无头骑士和他的马
 				只能在晚上使用
 				'''
 			IceKingsRemains: 
