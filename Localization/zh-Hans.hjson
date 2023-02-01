@@ -71,38 +71,38 @@ Mods: {
 				HateNPC: "{NPCName}需要在我用我的洞察者之前离开。"
 			}
 			LumberJack: {
-				Content: 我很高兴只要世界上有需要砍伐的木头。
-				NoHome: 没有一个小木屋可以回家的伐木工人是不完整的！
-				LoveSpace: 周围人少了，这意味着我可以随心所欲地挥动斧头，没有人挡道。
-				FarFromHome: 这儿离我的小木屋太远了。我应该回去磨一磨我的斧子。
-				DislikeCrowded: 我觉得这里越来越挤了。
-				HateCrowded: 周围人太多了。没什么会比砍掉一个人更能破坏一个砍树的好心情。
-				LikeBiome: "{BiomeName}里大量的树让人成为一个快乐的伐木工人。"
-				LoveBiome: "在{BiomeName}没有什么能比得上老式的伐木工了！"
-				DislikeBiome: "在{BiomeName}没什么能砍的!"
-				HateBiome: "在{BiomeName}什么都砍不了!"
-				LikeNPC: "我砍倒了树，{NPCName}种了更多，我们是完美的搭档。"
-				LikeNPC_Princess: "{NPCName}用斧头比我想象中要更好！"
-				LoveNPC: "我很高兴{NPCName}了解砍倒大树的美妙之处。"
-				DislikeNPC: "{NPCName}告诉我要开始拥抱树木……所以我教会了我的斧头为我拥抱树木。"
-				HateNPC: "{NPCName}一点也不懂我的意思。炸掉森林不是伐木！"
-			}
-			Squirrel: {
 				Content: *表达满足的吱吱声*
 				NoHome: *因无家可归而悲哀的吱吱声*
 				LoveSpace: *因不拥挤而快乐的吱吱声*
 				FarFromHome: *因迷路而悲哀的吱吱声*
 				DislikeCrowded: *因拥挤而悲哀的吱吱声*
-				HateCrowded: *因拥挤不堪而非常悲哀的吱吱声*
-				LikeBiome: *对{BiomeName}开心的吱吱声*
+				HateCrowded:  *因拥挤不堪而非常悲哀的吱吱声*
+				LikeBiome:  *对{BiomeName}开心的吱吱声*
 				LoveBiome: *对{BiomeName}非常开心的吱吱声*
 				DislikeBiome: *对{BiomeName}悲哀的吱吱声*
 				HateBiome: *对{BiomeName}非常悲哀的吱吱声*
 				LikeNPC: *对{NPCName}快乐的吱吱声*
 				LikeNPC_Princess: *对{NPCName}快乐的吱吱声*
-				LoveNPC: *对{NPCName}非常快乐的吱吱声*
+				LoveNPC:  *对{NPCName}非常快乐的吱吱声*
 				DislikeNPC: *对{NPCName}愤怒的吱吱声*
 				HateNPC: *对{NPCName}非常愤怒的吱吱声*
+			}
+			Squirrel: {
+				Content: 我很高兴只要世界上有需要砍伐的木头。 
+				NoHome: 没有一个小木屋可以回家的伐木工人是不完整的！
+				LoveSpace: 周围人少了，这意味着我可以随心所欲地挥动斧头，没有人挡道。
+				FarFromHome: 这儿离我的小木屋太远了。我应该回去磨一磨我的斧子。
+				DislikeCrowded: 我觉得这里越来越挤了。
+				HateCrowded:周围人太多了。没什么会比砍掉一个人更能破坏一个砍树的好心情。
+				LikeBiome:"{BiomeName}里大量的树让人成为一个快乐的伐木工人。"
+				LoveBiome: "在{BiomeName}没有什么能比得上老式的伐木工了！"
+				DislikeBiome: "在{BiomeName}没什么能砍的!"
+				HateBiome:  "在{BiomeName}什么都砍不了!"
+				LikeNPC: "我砍倒了树，{NPCName}种了更多，我们是完美的搭档。"
+				LikeNPC_Princess: "{NPCName}用斧头比我想象中要更好！"
+				LoveNPC:"我很高兴{NPCName}了解砍倒大树的美妙之处。"
+				DislikeNPC: "{NPCName}告诉我要开始拥抱树木……所以我教会了我的斧头为我拥抱树木。"
+				HateNPC: "{NPCName}一点也不懂我的意思。炸掉森林不是伐木！"
 			}
 		}
 
@@ -197,11 +197,11 @@ Mods: {
 			Master: 大师模式已开启！
 			Journey: 旅行模式已开启！
 			Normal: 经典模式已开启！
-			Anemometer: 狂风开始怒号。
+			Anemometer: 狂风！听我号令！
 			ForbiddenScarab: 沙尘暴开始了。
-			MatsuriLantern: 出现灯笼夜的概率提高了！
+			MatsuriLantern: 出现海灯节的概率提高了！
 			PillarSummon: 天界柱已苏醒！
-			SpentLantern: 出现灯笼夜的概率恢复正常。
+			SpentLantern: 出现海灯节的概率恢复正常。
 			WeatherBalloon: 雨云遮住了天空。
 			Pinky: 粉史莱姆已苏醒！
 			AncientSeal: 所有Boss已苏醒！
@@ -273,7 +273,7 @@ Mods: {
 			CursedQuiver: 无尽诅咒箭袋
 			FlameQuiver: 无尽烈焰箭袋
 			FrostburnQuiver: 无尽霜冻箭袋
-			HellfireQuiver: 无尽狱炎箭袋
+			HellfireQuiver: 无尽预言箭袋
 			HolyQuiver: 无尽圣箭袋
 			IchorQuiver: 无尽灵液箭袋
 			JesterQuiver: 无尽小丑箭袋
@@ -410,7 +410,7 @@ Mods: {
 			PillarSummon: 异界之门
 			RunawayProbe: 逃亡的探测器
 			SlimyBarometer: 黏糊糊的晴雨表
-			SpentLantern: 燃尽的灯笼
+			SpentLantern: 燃尽的霄灯
 			SpookyBranch: 诡异树枝
 			SuspiciousLookingScythe: 可疑的镰刀
 			WeatherBalloon: 气象气球
@@ -435,7 +435,7 @@ Mods: {
 			GoldenSlimeCrown: 金史莱姆王冠
 			GrandCross: 圣之十字
 			HallowChest: 神圣宝箱
-			HeartChocolate: 心之巧克力
+			HeartChocolate: 酒心巧克力
 			HemoclawCrab: 血浆蟹饵
 			HolyGrail: 圣杯
 			JungleChest: 丛林宝箱
@@ -490,7 +490,7 @@ Mods: {
 			OverloadBetsy: 龙蛋盒
 			OverloadBrain: 头脑风暴
 			OverloadCultist: 狂热者暴动
-			OverloadDarkMage: 绝对禁忌之书
+			OverloadDarkMage: 魔法禁书目录
 			OverloadDeer: 融合巨鹿
 			OverloadDestroyer: 地震触发器
 			OverloadedSlimeRain: 相当黏的晴雨表
@@ -527,31 +527,31 @@ Mods: {
 			TruffleWorm2: 松露蠕虫
 			WormyFood: 蠕虫食物
 			
-			CrucibleCosmos: 宇宙坩埚
+			CrucibleCosmos: 星宇砧
 			DemonAltar: 恶魔祭坛
 			CrimsonAltar: 猩红祭坛
 			EchPainting: Ech猫绘画
-			ElementalAssembler: 元素装配台
+			ElementalAssembler: 元能构装体
 			GoldenDippingVat: 金染缸
 			MultitaskCenter: 多功能合成桌
 			Omnistation: 万用增益站
 			Omnistation2: 万用增益站
-			RegalStatue: 富豪雕像
+			RegalStatue: 叔叔雕像
 			Semistation: 多功能增益站
 			SiblingPylon: 血亲晶塔
-			UnsafeBlueSlabWall: 危险蓝板墙
-			UnsafeBlueTileWall: 危险蓝瓷砖墙
-			UnsafeBlueBrickWall: 危险蓝砖墙
-			UnsafeGreenSlabWall: 危险蓝板墙
-			UnsafeGreenTileWall: 危险蓝瓷砖墙
-			UnsafeGreenBrickWall: 危险蓝砖墙
-			UnsafePinkSlabWall: 危险粉板墙
-			UnsafePinkTileWall: 危险粉瓷砖墙
-			UnsafePinkBrickWall: 危险粉砖墙
-			UnsafeLihzahrdBrickWall: 危险丛林蜥蜴砖墙
-			UnsafeSpiderWall: 危险蜘蛛墙
-			UnsafeMarbleWall: 危险大理石墙
-			UnsafeGraniteWall: 危险花岗岩墙
+			UnsafeBlueSlabWall: 安全蓝板墙
+			UnsafeBlueTileWall: 安全蓝瓷砖墙
+			UnsafeBlueBrickWall: 安全蓝砖墙
+			UnsafeGreenSlabWall: 安全蓝板墙
+			UnsafeGreenTileWall: 安全蓝瓷砖墙
+			UnsafeGreenBrickWall: 安全蓝砖墙
+			UnsafePinkSlabWall: 安全粉板墙
+			UnsafePinkTileWall: 安全粉瓷砖墙
+			UnsafePinkBrickWall: 安全粉砖墙
+			UnsafeLihzahrdBrickWall: 安全丛林蜥蜴砖墙
+			UnsafeSpiderWall: 安全蜘蛛墙
+			UnsafeMarbleWall: 安全大理石墙
+			UnsafeGraniteWall: 安全花岗岩墙
 			WalkingRick: 走路的Rick
 			WoodenToken: 木牌
 
@@ -764,7 +764,7 @@ Mods: {
 			ForbiddenTome: 召唤黑暗魔法师
 			HeadofMan: 
 				'''
-				召唤无头骑士
+				召唤无头骑士和他的马
 				只能在晚上使用
 				'''
 			IceKingsRemains: 
@@ -787,10 +787,10 @@ Mods: {
 			PillarSummon: 召唤天界柱
 			RunawayProbe: 召唤火星暴乱
 			SlimyBarometer: 召唤史莱姆雨
-			SpentLantern: 停用祭典灯笼的效果
+			SpentLantern: 停用霄灯的效果
 			SpookyBranch: 
 				'''
-				召唤哀木
+				召唤M
 				只能在晚上使用
 				'''
 			SuspiciousLookingScythe: 
@@ -847,7 +847,8 @@ Mods: {
 			DilutedRainbowMatter: 召唤彩虹史莱姆
 			Eggplant: 
 				'''
-				召唤骷髅博士
+				召唤骷髅博士 
+				老马呀！哎！老马呀！
 				只能在晚上或地下使用
 				'''
 			ForbiddenForbiddenFragment: 召唤沙尘精
@@ -872,8 +873,10 @@ Mods: {
 				'''
 			HolyGrail: 
 				'''
-				召唤蒂姆
-				只能在晚上或地下使用
+				+180法术攻击
+				+15%冷却缩减
+				+25每5秒回蓝
+				唯一被动-法力源泉：每秒回复1%法力值，如果法力值已满，每秒回复1%生命值。
 				'''
 			JungleChest: 召唤丛林宝箱怪
 			LeesHeadband: 
@@ -952,6 +955,7 @@ Mods: {
 				'''
 				在不杀死服装商的情况下召唤骷髅王
 				在白天会召唤地牢守卫
+				"叟没了，就可以庄心的躲这个骷髅头"	
 				'''
 
 			EnergizerBee: 
@@ -967,12 +971,13 @@ Mods: {
 			EnergizerBrain: 
 				'''
 				击败十轮头脑风暴后获得
-				“你仍然觉得自己很傻”
+				“CPU烧了”
 				'''
 			EnergizerCultist: 
 				'''
 				击败十轮狂热者暴动后获得
-				“你可能疯了”
+				“不属于这个时代的愚者，灰雾之上的神秘主宰，执掌好运的黄黑之王”
+				“灵界和源堡的眷者，源自古代的诡秘，漫长历史的见证，贝克兰德魔术和戏剧表演的保护者”
 				'''
 			EnergizerDarkMage: 
 				'''
@@ -987,7 +992,7 @@ Mods: {
 			EnergizerDestroy: 
 				'''
 				击败十轮地震触发器后获得
-				“它让你有了一种想毁灭东西的冲动”
+				“感觉身上有毁灭者在爬”
 				'''
 			EnergizerDG: 
 				'''
@@ -997,7 +1002,7 @@ Mods: {
 			EnergizerEmpress: 
 				'''
 				击败十轮草蛉罐后获得
-				“观察它的时候佩戴护目镜”
+				“小小lacewing的大烧零”
 				'''
 			EnergizerEye: 
 				'''
@@ -1215,7 +1220,7 @@ Mods: {
 				“它似乎隐藏着巨大的力量”
 				'''
 			ElementalAssembler: 拥有几个基本制作站的功能
-			GoldenDippingVat: 用于制作金动物
+			GoldenDippingVat: 用于制作狗儿的动物
 			MultitaskCenter: 拥有几个基本制作站的功能
 			Omnistation: 
 				'''
@@ -1231,7 +1236,11 @@ Mods: {
 				接触时给予蜂蜜增益
 				在附近时大幅提高运气
 				'''
-			RegalStatue: 在附近时城镇NPC会极快地重生
+			RegalStatue: 
+				'''
+				你所热爱的，就是叔叔我啊
+				在附近时城镇NPC会极快地重生
+				'''
 			Semistation:
 				'''
 				可以被无限次重复使用
@@ -1260,7 +1269,7 @@ Mods: {
 			LumberJaxe: 
 				'''
 				被击中的敌人死亡时会掉落木头
-				“挥舞斧头的真正英雄的武器”
+				“点掠夺V全歪到木材上了”
 				'''
 		}
 
@@ -1291,15 +1300,15 @@ Mods: {
 		}
 		
 		MapObject: {
-			CrucibleCosmosSheet: 宇宙坩埚
+			CrucibleCosmosSheet: 星宇砧
 			DemonAltarSheet: 恶魔祭坛
 			CrimsonAltarSheet: 猩红祭坛
-			ElementalAssemblerSheet: 元素装配台
-			GoldenDippingVatSheet: 金染缸
+			ElementalAssemblerSheet: 元能构装体
+			GoldenDippingVatSheet: 洗手金盆
 			MultitaskCenterSheet: 多功能合成桌
 			OmnistationSheet: 万能增益站
 			OmnistationSheet2: 万能增益站
-			RegalStatueSheet: 富豪雕像
+			RegalStatueSheet: 叔叔雕像
 			SemistationSheet: 多功能增益站
 			SiblingPylonTile: 血亲晶塔
 		}
@@ -1332,9 +1341,9 @@ Mods: {
 			DeathScythe: 永恒群冠之镰
 			Explosion: 爆裂物破片
 			EyeProjectile: 游荡眼球
-			FakeHeart2Deviantt: 假心
-			FakeHeartDeviantt: 假心
-			FakeHeartMarkDeviantt: 假心
+			FakeHeart2Deviantt: 真心
+			FakeHeartDeviantt: 真心
+			FakeHeartMarkDeviantt: 真心
 			LumberJaxe: 伐木斧
 			MechEyeProjectile: 机械眼球
 			PhantasmalEyeProjectile: 幻影之眼
